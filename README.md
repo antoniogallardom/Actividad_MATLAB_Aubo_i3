@@ -7,7 +7,7 @@
 **Autor: Antonio Gallardo Montti, Departmento de Ingeniería Eléctrica, Universidad de Santiago de Chile.**
 
 <!-- Begin Toc -->
-![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16934110.svg)]
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16934110.svg)
 ## Tabla de Contenidos
 [**Exploración cinemática del cobot AUBO i3 con un visor interactivo**](#TMP_2d11)
  
