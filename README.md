@@ -92,7 +92,7 @@ Esta práctica ancla un bloque de cinemática con un brazo industrial realista. 
 1.  Descargar el [**MATLAB Runtime**](https://la.mathworks.com/products/compiler/matlab-runtime.html) de la versión con la que se compiló la app (R2025a (25.1)).
 2. Instalar el Runtime (no requiere licencia).
 3. Clonar o descargar el repositorio **GitHub** con URDF, STL y el ejecutable/instalador.
-4. Si usa ejecutable: ejecutar el **installer** y seguir el asistente.Si prefiere MATLAB: abrir el script/P\-code en una carpeta que contenga el **URDF y las mallas STL**, y ejecutar.
+4. Si usa ejecutable: ejecutar el **installer** y seguir el asistente. Si prefiere MATLAB: abrir el script/P\-code en una carpeta que contenga el **URDF y las mallas STL**, y ejecutar.
 5. Al iniciar la app, verificar que el robot se renderiza y que *Home*, *Reset Camera* y *Show Workspace* funcionan.
 
 -  **Plantilla breve de reporte** (1–2 páginas) para registrar capturas y vectores qqq. 
