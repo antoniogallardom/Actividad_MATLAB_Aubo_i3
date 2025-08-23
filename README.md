@@ -1,8 +1,5 @@
 [Formulario_Actividad_Antonio_Gallardo.md](https://github.com/user-attachments/files/21950709/Formulario_Actividad_Antonio_Gallardo.md)
 
-<a id="TMP_16ef"></a>
-![image_0.png](./Formulario_Actividad_Antonio_Gallardo_media/image_0.png)
-<a id="TMP_2d11"></a>
 
 # **Exploración cinemática del cobot AUBO i3 con un visor interactivo**<img width="1365" height="719" alt="Captura de pantalla 2025-08-23 140420" src="https://github.com/user-attachments/assets/7916b42b-3296-44a4-88cf-63952355f5d8" />
 
@@ -12,8 +9,6 @@
 <!-- Begin Toc -->
 
 ## Tabla de Contenidos
-[![image_0.png](./Formulario_Actividad_Antonio_Gallardo_media/image_0.png)](#TMP_16ef)
- 
 [**Exploración cinemática del cobot AUBO i3 con un visor interactivo**](#TMP_2d11)
  
 [Tipo de actividad](#TMP_0a87)
@@ -58,11 +53,6 @@ Cálculo lineal básico (vectores/matrices, rotaciones) y una primera exposició
 # Resumen
 
 Actividad de 90–120 minutos donde los estudiantes **mueven** las juntas de un AUBO i3 virtual (URDF+STL), comparan posturas, reconocen **límites articulares**, usan **Home** y **Reset Camera**, y muestran/ocultan una **esfera de alcance** para discutir el volumen de trabajo. La meta es construir intuición de **cinemática directa** sin derivaciones largas.
-
-
-![image_1.png](./Formulario_Actividad_Antonio_Gallardo_media/image_1.png) ![image_2.png](./Formulario_Actividad_Antonio_Gallardo_media/image_2.png)
-
-<a id="TMP_45ad"></a>
 
 # Objetivos de Aprendizaje
 
