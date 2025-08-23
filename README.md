@@ -4,7 +4,8 @@
 ![image_0.png](./Formulario_Actividad_Antonio_Gallardo_media/image_0.png)
 <a id="TMP_2d11"></a>
 
-# **Exploración cinemática del cobot AUBO i3 con un visor interactivo**
+# **Exploración cinemática del cobot AUBO i3 con un visor interactivo**<img width="1365" height="719" alt="Captura de pantalla 2025-08-23 140420" src="https://github.com/user-attachments/assets/7916b42b-3296-44a4-88cf-63952355f5d8" />
+
 
 **Autor: Antonio Gallardo Montti, Departmento de Ingeniería Eléctrica, Universidad de Santiago de Chile.**
 
