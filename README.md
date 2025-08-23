@@ -7,7 +7,7 @@
 **Autor: Antonio Gallardo Montti, Departmento de Ingeniería Eléctrica, Universidad de Santiago de Chile.**
 
 <!-- Begin Toc -->
-
+![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16934110.svg)]
 ## Tabla de Contenidos
 [**Exploración cinemática del cobot AUBO i3 con un visor interactivo**](#TMP_2d11)
  
@@ -111,4 +111,5 @@ Esta práctica ancla un bloque de cinemática con un brazo industrial realista. 
 
 # Evaluación Sugerida
 -  **Formativa:** observación del uso correcto de controles y respeto de límites; calidad de las anotaciones. 
--  **Sumativa:** mini\-reporte con 3 posturas documentadas (captura + vector q), comentarios sobre el alcance observado y reflexiones al intentar llegar a puntos dados. Rubrica sugerida: (1) Registro claro (30 %), (2) Análisis razonado (40 %), (3) Claridad y presentación (30 %) 
+-  **Sumativa:** mini\-reporte con 3 posturas documentadas (captura + vector q), comentarios sobre el alcance observado y reflexiones al intentar llegar a puntos dados. Rubrica sugerida: (1) Registro claro (30 %), (2) Análisis razonado (40 %), (3) Claridad y presentación (30 %)
+
