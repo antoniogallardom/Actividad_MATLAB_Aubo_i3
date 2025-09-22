@@ -61,7 +61,6 @@ Al terminar, el estudiante podrá :
 -   **Mapear** configuraciones a la pose cualitativa del efector (cinemática directa a nivel conceptual). 
 -  **Identificar** límites articulares y su efecto en posturas típicas (p. ej., “codo arriba/abajo”). 
 -  **Describir** el espacio de trabajo como una **aproximación** (esfera de alcance) y sus restricciones. 
--  **Cargar** modelos URDF con mallas STL en un visor, registrando configuraciones y observaciones con capturas. 
 <a id="TMP_3892"></a>
 
 # Contexto
