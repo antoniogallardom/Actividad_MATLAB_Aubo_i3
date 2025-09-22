@@ -101,7 +101,7 @@ Esta práctica ancla un bloque de cinemática con un brazo industrial realista. 
 <a id="TMP_66c7"></a>
 
 # Notas para los Educadores
--  La app **funciona offline** con MATLAB Runtime; ideal para laboratorios sin licencias por equipo. 
+-  La app **funciona offline** con MATLAB Runtime; ideal para laboratorios con dificultad para mantener una conexión con la licencia. 
 -  Si la escena “se aclara” tras varios *Reset Camera*, es la luz reposicionada; no hay acumulación de luces. 
 -  En equipos antiguos, reduzca el tamaño de la ventana para mantener fluidez. 
 -  Aclare que la esfera es **orientativa** (no verifica colisiones ni orientación del efector). 
