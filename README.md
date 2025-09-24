@@ -8,8 +8,6 @@
 
 [![View Actividad MATLAB Aubo i3 on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://la.mathworks.com/matlabcentral/fileexchange/181858-actividad-matlab-aubo-i3)
 
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=Antonio Gallardo Montti/https://matlab.mathworks.com/open/fileexchange/v1?id=181858)
-
 <!-- Begin Toc -->
 ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16934110.svg)
 ## Tabla de Contenidos
