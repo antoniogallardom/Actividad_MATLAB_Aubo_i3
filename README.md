@@ -38,12 +38,28 @@ Los mapas calculados se guardan en `%LOCALAPPDATA%\AUBO_i3\workspace`. Los progr
 
 Si el inicio falla, revisa si existe el registro `%LOCALAPPDATA%\AUBO_i3\error_inicio.log` e inclúyelo al informar del problema.
 
-## Cómo citar el proyecto
+## Cómo citar
 
-La [versión 2.0.0 está archivada en Zenodo](https://doi.org/10.5281/zenodo.24237693). Desde su registro puedes exportar la cita en BibTeX y otros formatos. Utiliza su DOI específico al citar resultados obtenidos con esta versión.
+Si utilizas la aplicación en un informe, una memoria o una publicación, puedes citar la versión 2.0.0 de la siguiente manera:
 
-- **DOI de la versión 2.0.0:** [10.5281/zenodo.24237693](https://doi.org/10.5281/zenodo.24237693).
-- **DOI general del proyecto (todas las versiones):** [10.5281/zenodo.16934109](https://doi.org/10.5281/zenodo.16934109).
+> Gallardo, A. (2026). *antoniogallardom/Actividad_MATLAB_Aubo_i3: AUBO i3 App* (versión 2.0.0) [Software]. Zenodo. https://doi.org/10.5281/zenodo.24237693
+
+### BibTeX
+
+```bibtex
+@misc{gallardo2026auboi3,
+  author       = {Gallardo, Antonio},
+  title        = {antoniogallardom/Actividad\_MATLAB\_Aubo\_i3: {AUBO} i3 App},
+  year         = {2026},
+  month        = nov,
+  howpublished = {Zenodo},
+  note         = {Software, versi\'on 2.0.0},
+  doi          = {10.5281/zenodo.24237693},
+  url          = {https://doi.org/10.5281/zenodo.24237693}
+}
+```
+
+Esta referencia corresponde a la versión 2.0.0 archivada en Zenodo. Si utilizas otra versión, cita su DOI específico. Para hacer referencia al proyecto en su conjunto, utiliza el [DOI general: 10.5281/zenodo.16934109](https://doi.org/10.5281/zenodo.16934109).
 
 ## Proyecto y licencia
 
