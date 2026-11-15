@@ -2,7 +2,7 @@
 
 [![Descargar para Windows](https://img.shields.io/badge/Descargar-Windows-0078D4?style=for-the-badge)](https://github.com/antoniogallardom/Actividad_MATLAB_Aubo_i3/raw/refs/heads/main/AUBO_i3_App_Windows.zip)
 [![File Exchange](https://img.shields.io/badge/MATLAB-File%20Exchange-ED7D31?style=for-the-badge)](https://la.mathworks.com/matlabcentral/fileexchange/181858-actividad-matlab-aubo-i3)
-[![DOI del proyecto](https://zenodo.org/badge/DOI/10.5281/zenodo.16934109.svg)](https://doi.org/10.5281/zenodo.16934109)
+[![DOI de la versión 2.0.0](https://zenodo.org/badge/DOI/10.5281/zenodo.24237693.svg)](https://doi.org/10.5281/zenodo.24237693)
 [![Licencia BSD de dos cláusulas](https://img.shields.io/badge/Licencia-BSD--2--Clause-555555)](LICENSE)
 
 Aplicación para explorar la cinemática y programar recorridos de un robot AUBO i3 en un entorno virtual.
@@ -40,12 +40,10 @@ Si el inicio falla, revisa si existe el registro `%LOCALAPPDATA%\AUBO_i3\error_i
 
 ## Cómo citar el proyecto
 
-El [registro de Zenodo](https://doi.org/10.5281/zenodo.16934109) reúne las versiones archivadas del proyecto y permite exportar la cita en BibTeX y otros formatos.
+La [versión 2.0.0 está archivada en Zenodo](https://doi.org/10.5281/zenodo.24237693). Desde su registro puedes exportar la cita en BibTeX y otros formatos. Utiliza su DOI específico al citar resultados obtenidos con esta versión.
 
-- **DOI general del proyecto:** [10.5281/zenodo.16934109](https://doi.org/10.5281/zenodo.16934109).
-- **Versión archivada de agosto de 2025:** [10.5281/zenodo.16934110](https://doi.org/10.5281/zenodo.16934110).
-
-La aplicación para Windows que se descarga desde este repositorio es posterior a esa versión archivada y todavía no tiene una nueva versión publicada en Zenodo. Para citar resultados obtenidos con ella, identifica también el commit de GitHub utilizado; cuando se archive una nueva versión, utiliza su DOI específico.
+- **DOI de la versión 2.0.0:** [10.5281/zenodo.24237693](https://doi.org/10.5281/zenodo.24237693).
+- **DOI general del proyecto (todas las versiones):** [10.5281/zenodo.16934109](https://doi.org/10.5281/zenodo.16934109).
 
 ## Proyecto y licencia
 
